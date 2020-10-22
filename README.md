@@ -10,4 +10,4 @@ Other folders are mostly experimental.
 
 `archive` contains similar data from `2020-04-09` to `2020-08-03`. Early timepoints here do not include LTLA data.
 
-`cases_and_deaths` includes dates by date of death.
+`cases_and_deaths` includes dates by date of death but only for recent days.
