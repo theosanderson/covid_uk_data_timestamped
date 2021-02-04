@@ -1,5 +1,8 @@
 # Timestamped COVID stats
 
+
+**Update: since this site was created, the PHE dashboard have added a very useful `Archive` on the [Download](https://coronavirus.data.gov.uk/details/download) page which should replace the need for much of this data from `12 August`**
+
 These are files indicating the data the PHE coronavirus dashboard had stored at various points in time. This helps to link for instance reporting date and specimen date.
 
 All data is from https://coronavirus-staging.data.gov.uk/ available from PHE under the OGL licence.
