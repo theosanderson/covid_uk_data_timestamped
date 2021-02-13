@@ -2164,14 +2164,15 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-03,Barnsley,E08000016,2,
 2020-03-02,Barnsley,E08000016,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
-2021-02-11,Bath and North East Somerset,E06000022,1,1
-2021-02-10,Bath and North East Somerset,E06000022,22,1
-2021-02-09,Bath and North East Somerset,E06000022,21,1
-2021-02-08,Bath and North East Somerset,E06000022,31,3
-2021-02-07,Bath and North East Somerset,E06000022,18,3
-2021-02-06,Bath and North East Somerset,E06000022,21,1
-2021-02-05,Bath and North East Somerset,E06000022,25,3
-2021-02-04,Bath and North East Somerset,E06000022,27,0
+2021-02-12,Bath and North East Somerset,E06000022,2,2
+2021-02-11,Bath and North East Somerset,E06000022,15,1
+2021-02-10,Bath and North East Somerset,E06000022,31,1
+2021-02-09,Bath and North East Somerset,E06000022,22,1
+2021-02-08,Bath and North East Somerset,E06000022,31,2
+2021-02-07,Bath and North East Somerset,E06000022,18,2
+2021-02-06,Bath and North East Somerset,E06000022,21,2
+2021-02-05,Bath and North East Somerset,E06000022,25,4
+2021-02-04,Bath and North East Somerset,E06000022,27,1
 2021-02-03,Bath and North East Somerset,E06000022,27,3
 2021-02-02,Bath and North East Somerset,E06000022,43,8
 2021-02-01,Bath and North East Somerset,E06000022,27,3
@@ -2193,51 +2194,51 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2021-01-16,Bath and North East Somerset,E06000022,48,4
 2021-01-15,Bath and North East Somerset,E06000022,103,2
 2021-01-14,Bath and North East Somerset,E06000022,113,4
-2021-01-13,Bath and North East Somerset,E06000022,87,1
+2021-01-13,Bath and North East Somerset,E06000022,88,1
 2021-01-12,Bath and North East Somerset,E06000022,102,2
-2021-01-11,Bath and North East Somerset,E06000022,157,1
+2021-01-11,Bath and North East Somerset,E06000022,158,1
 2021-01-10,Bath and North East Somerset,E06000022,71,0
 2021-01-09,Bath and North East Somerset,E06000022,110,0
 2021-01-08,Bath and North East Somerset,E06000022,110,1
 2021-01-07,Bath and North East Somerset,E06000022,88,3
 2021-01-06,Bath and North East Somerset,E06000022,125,0
-2021-01-05,Bath and North East Somerset,E06000022,143,1
+2021-01-05,Bath and North East Somerset,E06000022,142,1
 2021-01-04,Bath and North East Somerset,E06000022,129,2
 2021-01-03,Bath and North East Somerset,E06000022,78,0
 2021-01-02,Bath and North East Somerset,E06000022,103,2
-2021-01-01,Bath and North East Somerset,E06000022,69,0
+2021-01-01,Bath and North East Somerset,E06000022,68,0
 2020-12-31,Bath and North East Somerset,E06000022,72,0
 2020-12-30,Bath and North East Somerset,E06000022,104,0
-2020-12-29,Bath and North East Somerset,E06000022,135,0
+2020-12-29,Bath and North East Somerset,E06000022,136,0
 2020-12-28,Bath and North East Somerset,E06000022,103,1
 2020-12-27,Bath and North East Somerset,E06000022,59,0
 2020-12-26,Bath and North East Somerset,E06000022,55,2
 2020-12-25,Bath and North East Somerset,E06000022,17,2
 2020-12-24,Bath and North East Somerset,E06000022,34,1
-2020-12-23,Bath and North East Somerset,E06000022,46,1
-2020-12-22,Bath and North East Somerset,E06000022,44,0
+2020-12-23,Bath and North East Somerset,E06000022,46,0
+2020-12-22,Bath and North East Somerset,E06000022,44,1
 2020-12-21,Bath and North East Somerset,E06000022,83,0
 2020-12-20,Bath and North East Somerset,E06000022,42,1
 2020-12-19,Bath and North East Somerset,E06000022,27,1
 2020-12-18,Bath and North East Somerset,E06000022,40,2
-2020-12-17,Bath and North East Somerset,E06000022,33,0
+2020-12-17,Bath and North East Somerset,E06000022,34,0
 2020-12-16,Bath and North East Somerset,E06000022,38,0
 2020-12-15,Bath and North East Somerset,E06000022,32,1
 2020-12-14,Bath and North East Somerset,E06000022,37,3
 2020-12-13,Bath and North East Somerset,E06000022,24,1
 2020-12-12,Bath and North East Somerset,E06000022,22,0
 2020-12-11,Bath and North East Somerset,E06000022,24,3
-2020-12-10,Bath and North East Somerset,E06000022,27,1
+2020-12-10,Bath and North East Somerset,E06000022,26,1
 2020-12-09,Bath and North East Somerset,E06000022,25,0
 2020-12-08,Bath and North East Somerset,E06000022,21,1
 2020-12-07,Bath and North East Somerset,E06000022,25,2
 2020-12-06,Bath and North East Somerset,E06000022,12,1
 2020-12-05,Bath and North East Somerset,E06000022,25,1
 2020-12-04,Bath and North East Somerset,E06000022,39,0
-2020-12-03,Bath and North East Somerset,E06000022,39,0
-2020-12-02,Bath and North East Somerset,E06000022,21,2
+2020-12-03,Bath and North East Somerset,E06000022,38,0
+2020-12-02,Bath and North East Somerset,E06000022,22,2
 2020-12-01,Bath and North East Somerset,E06000022,37,0
-2020-11-30,Bath and North East Somerset,E06000022,37,3
+2020-11-30,Bath and North East Somerset,E06000022,36,3
 2020-11-29,Bath and North East Somerset,E06000022,20,1
 2020-11-28,Bath and North East Somerset,E06000022,13,1
 2020-11-27,Bath and North East Somerset,E06000022,29,0
@@ -2250,7 +2251,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-11-20,Bath and North East Somerset,E06000022,26,1
 2020-11-19,Bath and North East Somerset,E06000022,31,0
 2020-11-18,Bath and North East Somerset,E06000022,45,0
-2020-11-17,Bath and North East Somerset,E06000022,38,0
+2020-11-17,Bath and North East Somerset,E06000022,37,0
 2020-11-16,Bath and North East Somerset,E06000022,89,0
 2020-11-15,Bath and North East Somerset,E06000022,56,0
 2020-11-14,Bath and North East Somerset,E06000022,54,0
@@ -2278,7 +2279,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-10-23,Bath and North East Somerset,E06000022,67,0
 2020-10-22,Bath and North East Somerset,E06000022,61,0
 2020-10-21,Bath and North East Somerset,E06000022,114,0
-2020-10-20,Bath and North East Somerset,E06000022,70,0
+2020-10-20,Bath and North East Somerset,E06000022,71,0
 2020-10-19,Bath and North East Somerset,E06000022,71,0
 2020-10-18,Bath and North East Somerset,E06000022,19,0
 2020-10-17,Bath and North East Somerset,E06000022,25,0
@@ -2450,7 +2451,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-05-04,Bath and North East Somerset,E06000022,3,0
 2020-05-03,Bath and North East Somerset,E06000022,4,1
 2020-05-02,Bath and North East Somerset,E06000022,8,1
-2020-05-01,Bath and North East Somerset,E06000022,6,0
+2020-05-01,Bath and North East Somerset,E06000022,5,0
 2020-04-30,Bath and North East Somerset,E06000022,11,0
 2020-04-29,Bath and North East Somerset,E06000022,8,0
 2020-04-28,Bath and North East Somerset,E06000022,3,1
@@ -8841,8 +8842,10 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-02-29,Bury,E08000002,0,
 2020-02-28,Bury,E08000002,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
-2021-02-10,Caerphilly,W06000018,2,
-2021-02-09,Caerphilly,W06000018,34,
+2021-02-12,Caerphilly,W06000018,0,
+2021-02-11,Caerphilly,W06000018,6,
+2021-02-10,Caerphilly,W06000018,12,
+2021-02-09,Caerphilly,W06000018,35,
 2021-02-08,Caerphilly,W06000018,30,
 2021-02-07,Caerphilly,W06000018,10,
 2021-02-06,Caerphilly,W06000018,25,
@@ -12696,7 +12699,9 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-03,Cheshire West and Chester,E06000050,0,
 2020-03-02,Cheshire West and Chester,E06000050,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
-2021-02-10,Conwy,W06000003,3,
+2021-02-12,Conwy,W06000003,0,
+2021-02-11,Conwy,W06000003,4,
+2021-02-10,Conwy,W06000003,14,
 2021-02-09,Conwy,W06000003,14,
 2021-02-08,Conwy,W06000003,12,
 2021-02-07,Conwy,W06000003,11,
