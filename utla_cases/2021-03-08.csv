@@ -1930,8 +1930,9 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-02-28,Barnet,E09000003,0,
 2020-02-27,Barnet,E09000003,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
-2021-03-06,Barnsley,E08000016,2,1
-2021-03-05,Barnsley,E08000016,43,0
+2021-03-07,Barnsley,E08000016,4,1
+2021-03-06,Barnsley,E08000016,31,1
+2021-03-05,Barnsley,E08000016,44,0
 2021-03-04,Barnsley,E08000016,51,0
 2021-03-03,Barnsley,E08000016,52,1
 2021-03-02,Barnsley,E08000016,67,1
@@ -1940,8 +1941,8 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2021-02-27,Barnsley,E08000016,44,5
 2021-02-26,Barnsley,E08000016,51,3
 2021-02-25,Barnsley,E08000016,70,4
-2021-02-24,Barnsley,E08000016,66,1
-2021-02-23,Barnsley,E08000016,54,6
+2021-02-24,Barnsley,E08000016,66,2
+2021-02-23,Barnsley,E08000016,54,5
 2021-02-22,Barnsley,E08000016,70,0
 2021-02-21,Barnsley,E08000016,41,5
 2021-02-20,Barnsley,E08000016,62,3
