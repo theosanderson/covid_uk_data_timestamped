@@ -2308,11 +2308,12 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-03,Barnsley,E08000016,2,
 2020-03-02,Barnsley,E08000016,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
-2021-03-07,Bath and North East Somerset,E06000022,1,0
+2021-03-08,Bath and North East Somerset,E06000022,4,0
+2021-03-07,Bath and North East Somerset,E06000022,4,0
 2021-03-06,Bath and North East Somerset,E06000022,8,0
-2021-03-05,Bath and North East Somerset,E06000022,5,0
-2021-03-04,Bath and North East Somerset,E06000022,3,0
-2021-03-03,Bath and North East Somerset,E06000022,12,0
+2021-03-05,Bath and North East Somerset,E06000022,6,0
+2021-03-04,Bath and North East Somerset,E06000022,4,0
+2021-03-03,Bath and North East Somerset,E06000022,13,0
 2021-03-02,Bath and North East Somerset,E06000022,7,0
 2021-03-01,Bath and North East Somerset,E06000022,9,0
 2021-02-28,Bath and North East Somerset,E06000022,8,0
@@ -2332,8 +2333,8 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2021-02-14,Bath and North East Somerset,E06000022,19,1
 2021-02-13,Bath and North East Somerset,E06000022,9,3
 2021-02-12,Bath and North East Somerset,E06000022,15,2
-2021-02-11,Bath and North East Somerset,E06000022,20,0
-2021-02-10,Bath and North East Somerset,E06000022,32,2
+2021-02-11,Bath and North East Somerset,E06000022,20,1
+2021-02-10,Bath and North East Somerset,E06000022,32,1
 2021-02-09,Bath and North East Somerset,E06000022,22,1
 2021-02-08,Bath and North East Somerset,E06000022,31,2
 2021-02-07,Bath and North East Somerset,E06000022,18,2
@@ -2369,15 +2370,15 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2021-01-08,Bath and North East Somerset,E06000022,110,1
 2021-01-07,Bath and North East Somerset,E06000022,88,3
 2021-01-06,Bath and North East Somerset,E06000022,125,0
-2021-01-05,Bath and North East Somerset,E06000022,143,1
+2021-01-05,Bath and North East Somerset,E06000022,142,1
 2021-01-04,Bath and North East Somerset,E06000022,129,2
 2021-01-03,Bath and North East Somerset,E06000022,78,0
 2021-01-02,Bath and North East Somerset,E06000022,103,2
 2021-01-01,Bath and North East Somerset,E06000022,68,0
 2020-12-31,Bath and North East Somerset,E06000022,72,0
 2020-12-30,Bath and North East Somerset,E06000022,104,0
-2020-12-29,Bath and North East Somerset,E06000022,135,0
-2020-12-28,Bath and North East Somerset,E06000022,103,1
+2020-12-29,Bath and North East Somerset,E06000022,136,0
+2020-12-28,Bath and North East Somerset,E06000022,104,1
 2020-12-27,Bath and North East Somerset,E06000022,59,0
 2020-12-26,Bath and North East Somerset,E06000022,55,2
 2020-12-25,Bath and North East Somerset,E06000022,17,2
@@ -2671,7 +2672,8 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-12,Bath and North East Somerset,E06000022,2,
 2020-03-11,Bath and North East Somerset,E06000022,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
-2021-03-07,Bedford,E06000055,2,0
+2021-03-08,Bedford,E06000055,13,0
+2021-03-07,Bedford,E06000055,4,0
 2021-03-06,Bedford,E06000055,14,1
 2021-03-05,Bedford,E06000055,14,0
 2021-03-04,Bedford,E06000055,9,0
@@ -2681,7 +2683,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2021-02-28,Bedford,E06000055,7,1
 2021-02-27,Bedford,E06000055,11,1
 2021-02-26,Bedford,E06000055,28,1
-2021-02-25,Bedford,E06000055,21,2
+2021-02-25,Bedford,E06000055,22,2
 2021-02-24,Bedford,E06000055,30,1
 2021-02-23,Bedford,E06000055,32,3
 2021-02-22,Bedford,E06000055,32,0
@@ -2705,7 +2707,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2021-02-04,Bedford,E06000055,68,6
 2021-02-03,Bedford,E06000055,90,4
 2021-02-02,Bedford,E06000055,79,7
-2021-02-01,Bedford,E06000055,101,4
+2021-02-01,Bedford,E06000055,100,4
 2021-01-31,Bedford,E06000055,66,5
 2021-01-30,Bedford,E06000055,59,5
 2021-01-29,Bedford,E06000055,85,7
@@ -10525,11 +10527,12 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-04,Cambridgeshire,E10000003,0,
 2020-03-03,Cambridgeshire,E10000003,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
-2021-03-07,Camden,E09000007,1,0
-2021-03-06,Camden,E09000007,4,0
-2021-03-05,Camden,E09000007,13,2
-2021-03-04,Camden,E09000007,11,1
-2021-03-03,Camden,E09000007,14,0
+2021-03-08,Camden,E09000007,2,0
+2021-03-07,Camden,E09000007,4,0
+2021-03-06,Camden,E09000007,8,0
+2021-03-05,Camden,E09000007,17,2
+2021-03-04,Camden,E09000007,12,1
+2021-03-03,Camden,E09000007,15,0
 2021-03-02,Camden,E09000007,13,0
 2021-03-01,Camden,E09000007,14,1
 2021-02-28,Camden,E09000007,6,0
@@ -10550,7 +10553,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2021-02-13,Camden,E09000007,14,1
 2021-02-12,Camden,E09000007,23,0
 2021-02-11,Camden,E09000007,42,1
-2021-02-10,Camden,E09000007,17,1
+2021-02-10,Camden,E09000007,17,0
 2021-02-09,Camden,E09000007,23,0
 2021-02-08,Camden,E09000007,37,0
 2021-02-07,Camden,E09000007,24,2
@@ -10585,7 +10588,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2021-01-09,Camden,E09000007,180,1
 2021-01-08,Camden,E09000007,197,4
 2021-01-07,Camden,E09000007,225,2
-2021-01-06,Camden,E09000007,302,4
+2021-01-06,Camden,E09000007,301,4
 2021-01-05,Camden,E09000007,284,1
 2021-01-04,Camden,E09000007,327,2
 2021-01-03,Camden,E09000007,269,2
@@ -10601,7 +10604,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-12-24,Camden,E09000007,195,1
 2020-12-23,Camden,E09000007,273,3
 2020-12-22,Camden,E09000007,274,0
-2020-12-21,Camden,E09000007,249,3
+2020-12-21,Camden,E09000007,250,3
 2020-12-20,Camden,E09000007,129,1
 2020-12-19,Camden,E09000007,135,1
 2020-12-18,Camden,E09000007,199,0
@@ -10620,9 +10623,9 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-12-05,Camden,E09000007,39,1
 2020-12-04,Camden,E09000007,41,0
 2020-12-03,Camden,E09000007,46,0
-2020-12-02,Camden,E09000007,40,0
+2020-12-02,Camden,E09000007,41,0
 2020-12-01,Camden,E09000007,40,0
-2020-11-30,Camden,E09000007,36,0
+2020-11-30,Camden,E09000007,37,0
 2020-11-29,Camden,E09000007,25,0
 2020-11-28,Camden,E09000007,29,0
 2020-11-27,Camden,E09000007,28,0
@@ -10888,7 +10891,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-12,Camden,E09000007,5,
 2020-03-11,Camden,E09000007,10,
 2020-03-10,Camden,E09000007,2,
-2020-03-09,Camden,E09000007,2,
+2020-03-09,Camden,E09000007,1,
 2020-03-08,Camden,E09000007,2,
 2020-03-07,Camden,E09000007,1,
 2020-03-06,Camden,E09000007,1,
