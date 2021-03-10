@@ -1,4 +1,5 @@
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-09,Antrim and Newtownabbey,N09000001,11,0
 2021-03-08,Antrim and Newtownabbey,N09000001,13,0
 2021-03-07,Antrim and Newtownabbey,N09000001,16,0
 2021-03-06,Antrim and Newtownabbey,N09000001,19,0
@@ -68,7 +69,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2021-01-01,Antrim and Newtownabbey,N09000001,94,1
 2020-12-31,Antrim and Newtownabbey,N09000001,137,2
 2020-12-30,Antrim and Newtownabbey,N09000001,170,2
-2020-12-29,Antrim and Newtownabbey,N09000001,191,2
+2020-12-29,Antrim and Newtownabbey,N09000001,190,2
 2020-12-28,Antrim and Newtownabbey,N09000001,96,1
 2020-12-27,Antrim and Newtownabbey,N09000001,71,4
 2020-12-26,Antrim and Newtownabbey,N09000001,59,3
@@ -113,7 +114,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-11-17,Antrim and Newtownabbey,N09000001,35,0
 2020-11-16,Antrim and Newtownabbey,N09000001,38,1
 2020-11-15,Antrim and Newtownabbey,N09000001,42,0
-2020-11-14,Antrim and Newtownabbey,N09000001,25,0
+2020-11-14,Antrim and Newtownabbey,N09000001,24,0
 2020-11-13,Antrim and Newtownabbey,N09000001,37,1
 2020-11-12,Antrim and Newtownabbey,N09000001,41,3
 2020-11-11,Antrim and Newtownabbey,N09000001,51,0
@@ -67618,8 +67619,9 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-02-28,Wrexham,W06000006,0,
 2020-02-27,Wrexham,W06000006,0,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
-2021-03-08,York,E06000014,11,0
-2021-03-07,York,E06000014,16,1
+2021-03-09,York,E06000014,11,0
+2021-03-08,York,E06000014,21,0
+2021-03-07,York,E06000014,17,1
 2021-03-06,York,E06000014,18,1
 2021-03-05,York,E06000014,14,0
 2021-03-04,York,E06000014,16,0
@@ -67658,7 +67660,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2021-01-30,York,E06000014,35,2
 2021-01-29,York,E06000014,40,2
 2021-01-28,York,E06000014,56,2
-2021-01-27,York,E06000014,65,6
+2021-01-27,York,E06000014,64,6
 2021-01-26,York,E06000014,56,3
 2021-01-25,York,E06000014,79,8
 2021-01-24,York,E06000014,46,5
