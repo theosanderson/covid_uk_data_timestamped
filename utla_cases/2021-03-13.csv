@@ -41933,8 +41933,9 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-10,North Somerset,E06000024,0,
 2020-03-09,North Somerset,E06000024,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
-2021-03-11,North Tyneside,E08000022,17,0
-2021-03-10,North Tyneside,E08000022,24,2
+2021-03-12,North Tyneside,E08000022,12,1
+2021-03-11,North Tyneside,E08000022,25,0
+2021-03-10,North Tyneside,E08000022,26,2
 2021-03-09,North Tyneside,E08000022,25,0
 2021-03-08,North Tyneside,E08000022,20,2
 2021-03-07,North Tyneside,E08000022,16,0
@@ -41967,7 +41968,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2021-02-08,North Tyneside,E08000022,48,1
 2021-02-07,North Tyneside,E08000022,41,2
 2021-02-06,North Tyneside,E08000022,39,4
-2021-02-05,North Tyneside,E08000022,34,7
+2021-02-05,North Tyneside,E08000022,35,7
 2021-02-04,North Tyneside,E08000022,53,4
 2021-02-03,North Tyneside,E08000022,54,4
 2021-02-02,North Tyneside,E08000022,72,3
@@ -42237,10 +42238,10 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-05-14,North Tyneside,E08000022,10,2
 2020-05-13,North Tyneside,E08000022,18,0
 2020-05-12,North Tyneside,E08000022,5,2
-2020-05-11,North Tyneside,E08000022,12,4
+2020-05-11,North Tyneside,E08000022,13,4
 2020-05-10,North Tyneside,E08000022,8,2
-2020-05-09,North Tyneside,E08000022,8,0
-2020-05-08,North Tyneside,E08000022,27,2
+2020-05-09,North Tyneside,E08000022,9,0
+2020-05-08,North Tyneside,E08000022,26,2
 2020-05-07,North Tyneside,E08000022,10,2
 2020-05-06,North Tyneside,E08000022,16,3
 2020-05-05,North Tyneside,E08000022,12,2
@@ -42248,10 +42249,10 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-05-03,North Tyneside,E08000022,7,1
 2020-05-02,North Tyneside,E08000022,6,2
 2020-05-01,North Tyneside,E08000022,9,2
-2020-04-30,North Tyneside,E08000022,27,2
-2020-04-29,North Tyneside,E08000022,12,0
+2020-04-30,North Tyneside,E08000022,28,2
+2020-04-29,North Tyneside,E08000022,11,0
 2020-04-28,North Tyneside,E08000022,12,1
-2020-04-27,North Tyneside,E08000022,16,0
+2020-04-27,North Tyneside,E08000022,15,0
 2020-04-26,North Tyneside,E08000022,8,4
 2020-04-25,North Tyneside,E08000022,8,5
 2020-04-24,North Tyneside,E08000022,20,0
@@ -45716,8 +45717,9 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-15,Peterborough,E06000031,0,
 2020-03-14,Peterborough,E06000031,2,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
-2021-03-11,Plymouth,E06000026,2,0
-2021-03-10,Plymouth,E06000026,9,0
+2021-03-12,Plymouth,E06000026,5,0
+2021-03-11,Plymouth,E06000026,9,0
+2021-03-10,Plymouth,E06000026,10,0
 2021-03-09,Plymouth,E06000026,6,0
 2021-03-08,Plymouth,E06000026,15,0
 2021-03-07,Plymouth,E06000026,13,0
@@ -51664,8 +51666,9 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-08,Shropshire,E06000051,1,
 2020-03-07,Shropshire,E06000051,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
-2021-03-11,Slough,E06000039,3,0
-2021-03-10,Slough,E06000039,21,1
+2021-03-12,Slough,E06000039,9,0
+2021-03-11,Slough,E06000039,15,0
+2021-03-10,Slough,E06000039,23,1
 2021-03-09,Slough,E06000039,30,1
 2021-03-08,Slough,E06000039,25,0
 2021-03-07,Slough,E06000039,17,0
@@ -51733,7 +51736,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2021-01-04,Slough,E06000039,308,1
 2021-01-03,Slough,E06000039,221,2
 2021-01-02,Slough,E06000039,262,2
-2021-01-01,Slough,E06000039,132,2
+2021-01-01,Slough,E06000039,131,2
 2020-12-31,Slough,E06000039,174,0
 2020-12-30,Slough,E06000039,329,3
 2020-12-29,Slough,E06000039,333,1
@@ -51766,7 +51769,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-12-02,Slough,E06000039,49,0
 2020-12-01,Slough,E06000039,54,0
 2020-11-30,Slough,E06000039,50,2
-2020-11-29,Slough,E06000039,51,0
+2020-11-29,Slough,E06000039,50,0
 2020-11-28,Slough,E06000039,42,1
 2020-11-27,Slough,E06000039,74,1
 2020-11-26,Slough,E06000039,55,0
@@ -51784,7 +51787,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-11-14,Slough,E06000039,47,0
 2020-11-13,Slough,E06000039,81,2
 2020-11-12,Slough,E06000039,92,2
-2020-11-11,Slough,E06000039,83,0
+2020-11-11,Slough,E06000039,84,0
 2020-11-10,Slough,E06000039,104,1
 2020-11-09,Slough,E06000039,82,1
 2020-11-08,Slough,E06000039,44,0
@@ -51999,7 +52002,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-04-13,Slough,E06000039,14,0
 2020-04-12,Slough,E06000039,9,6
 2020-04-11,Slough,E06000039,12,1
-2020-04-10,Slough,E06000039,14,1
+2020-04-10,Slough,E06000039,14,2
 2020-04-09,Slough,E06000039,8,2
 2020-04-08,Slough,E06000039,9,0
 2020-04-07,Slough,E06000039,18,2
