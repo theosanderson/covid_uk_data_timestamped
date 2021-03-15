@@ -1202,6 +1202,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-02-08,"Armagh City, Banbridge and Craigavon",N09000002,0,
 2020-02-07,"Armagh City, Banbridge and Craigavon",N09000002,0,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Barking and Dagenham,E09000002,0,
 2021-03-14,Barking and Dagenham,E09000002,1,0
 2021-03-13,Barking and Dagenham,E09000002,3,0
 2021-03-12,Barking and Dagenham,E09000002,8,0
@@ -1582,6 +1583,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-02,Barking and Dagenham,E09000002,0,
 2020-03-01,Barking and Dagenham,E09000002,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Barnet,E09000003,0,
 2021-03-14,Barnet,E09000003,2,0
 2021-03-13,Barnet,E09000003,6,0
 2021-03-12,Barnet,E09000003,18,0
@@ -1965,6 +1967,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-02-28,Barnet,E09000003,0,
 2020-02-27,Barnet,E09000003,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Barnsley,E08000016,0,
 2021-03-14,Barnsley,E08000016,22,2
 2021-03-13,Barnsley,E08000016,66,1
 2021-03-12,Barnsley,E08000016,61,0
@@ -2344,6 +2347,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-03,Barnsley,E08000016,2,
 2020-03-02,Barnsley,E08000016,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Bath and North East Somerset,E06000022,0,
 2021-03-14,Bath and North East Somerset,E06000022,1,0
 2021-03-13,Bath and North East Somerset,E06000022,3,0
 2021-03-12,Bath and North East Somerset,E06000022,6,0
@@ -2714,6 +2718,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-12,Bath and North East Somerset,E06000022,2,
 2020-03-11,Bath and North East Somerset,E06000022,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Bedford,E06000055,0,
 2021-03-14,Bedford,E06000055,3,0
 2021-03-13,Bedford,E06000055,7,0
 2021-03-12,Bedford,E06000055,14,0
@@ -3483,6 +3488,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-02-10,Belfast,N09000003,0,
 2020-02-09,Belfast,N09000003,0,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Bexley,E09000004,0,
 2021-03-14,Bexley,E09000004,2,0
 2021-03-13,Bexley,E09000004,6,1
 2021-03-12,Bexley,E09000004,9,0
@@ -3855,6 +3861,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-10,Bexley,E09000004,2,
 2020-03-09,Bexley,E09000004,2,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Birmingham,E08000025,0,
 2021-03-14,Birmingham,E08000025,27,0
 2021-03-13,Birmingham,E08000025,80,1
 2021-03-12,Birmingham,E08000025,96,2
@@ -4235,6 +4242,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-02,Birmingham,E08000025,1,
 2020-03-01,Birmingham,E08000025,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Blackburn with Darwen,E06000008,0,
 2021-03-14,Blackburn with Darwen,E06000008,6,0
 2021-03-13,Blackburn with Darwen,E06000008,15,0
 2021-03-12,Blackburn with Darwen,E06000008,25,0
@@ -4603,6 +4611,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-14,Blackburn with Darwen,E06000008,0,
 2020-03-13,Blackburn with Darwen,E06000008,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Blackpool,E06000009,0,
 2021-03-14,Blackpool,E06000009,2,0
 2021-03-13,Blackpool,E06000009,5,0
 2021-03-12,Blackpool,E06000009,8,0
@@ -5357,6 +5366,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-02-28,Blaenau Gwent,W06000019,0,
 2020-02-27,Blaenau Gwent,W06000019,0,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Bolton,E08000001,0,
 2021-03-14,Bolton,E08000001,4,0
 2021-03-13,Bolton,E08000001,34,0
 2021-03-12,Bolton,E08000001,42,0
@@ -5737,6 +5747,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-02,Bolton,E08000001,0,
 2020-03-01,Bolton,E08000001,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,"Bournemouth, Christchurch and Poole",E06000058,0,
 2021-03-14,"Bournemouth, Christchurch and Poole",E06000058,8,0
 2021-03-13,"Bournemouth, Christchurch and Poole",E06000058,10,0
 2021-03-12,"Bournemouth, Christchurch and Poole",E06000058,14,0
@@ -6113,6 +6124,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-06,"Bournemouth, Christchurch and Poole",E06000058,1,
 2020-03-05,"Bournemouth, Christchurch and Poole",E06000058,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Bracknell Forest,E06000036,0,
 2021-03-14,Bracknell Forest,E06000036,1,0
 2021-03-13,Bracknell Forest,E06000036,6,0
 2021-03-12,Bracknell Forest,E06000036,9,0
@@ -6491,6 +6503,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-04,Bracknell Forest,E06000036,0,
 2020-03-03,Bracknell Forest,E06000036,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Bradford,E08000032,0,
 2021-03-14,Bradford,E08000032,32,0
 2021-03-13,Bradford,E08000032,70,0
 2021-03-12,Bradford,E08000032,120,2
@@ -6874,6 +6887,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-02-28,Bradford,E08000032,0,
 2020-02-27,Bradford,E08000032,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Brent,E09000005,0,
 2021-03-14,Brent,E09000005,9,0
 2021-03-13,Brent,E09000005,11,0
 2021-03-12,Brent,E09000005,14,0
@@ -7631,6 +7645,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-02-28,Bridgend,W06000013,0,
 2020-02-27,Bridgend,W06000013,0,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Brighton and Hove,E06000043,0,
 2021-03-14,Brighton and Hove,E06000043,5,0
 2021-03-13,Brighton and Hove,E06000043,10,0
 2021-03-12,Brighton and Hove,E06000043,10,0
@@ -8036,6 +8051,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-02-06,Brighton and Hove,E06000043,0,
 2020-02-05,Brighton and Hove,E06000043,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,"Bristol, City of",E06000023,0,
 2021-03-14,"Bristol, City of",E06000023,12,0
 2021-03-13,"Bristol, City of",E06000023,12,0
 2021-03-12,"Bristol, City of",E06000023,34,0
@@ -8414,6 +8430,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-04,"Bristol, City of",E06000023,0,
 2020-03-03,"Bristol, City of",E06000023,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Bromley,E09000006,0,
 2021-03-14,Bromley,E09000006,1,0
 2021-03-13,Bromley,E09000006,10,0
 2021-03-12,Bromley,E09000006,20,0
@@ -8794,6 +8811,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-02,Bromley,E09000006,0,
 2020-03-01,Bromley,E09000006,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Buckinghamshire,E10000002,0,
 2021-03-14,Buckinghamshire,E10000002,11,0
 2021-03-13,Buckinghamshire,E10000002,14,1
 2021-03-12,Buckinghamshire,E10000002,30,1
@@ -9181,6 +9199,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-02-24,Buckinghamshire,E10000002,0,
 2020-02-23,Buckinghamshire,E10000002,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Bury,E08000002,0,
 2021-03-14,Bury,E08000002,3,0
 2021-03-13,Bury,E08000002,13,0
 2021-03-12,Bury,E08000002,11,1
@@ -9946,6 +9965,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-02-28,Caerphilly,W06000018,0,
 2020-02-27,Caerphilly,W06000018,0,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Calderdale,E08000033,0,
 2021-03-14,Calderdale,E08000033,10,0
 2021-03-13,Calderdale,E08000033,17,0
 2021-03-12,Calderdale,E08000033,27,1
@@ -10317,6 +10337,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-11,Calderdale,E08000033,2,
 2020-03-10,Calderdale,E08000033,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Cambridgeshire,E10000003,0,
 2021-03-14,Cambridgeshire,E10000003,16,1
 2021-03-13,Cambridgeshire,E10000003,31,1
 2021-03-12,Cambridgeshire,E10000003,51,1
@@ -10695,6 +10716,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-04,Cambridgeshire,E10000003,0,
 2020-03-03,Cambridgeshire,E10000003,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Camden,E09000007,0,
 2021-03-14,Camden,E09000007,0,0
 2021-03-13,Camden,E09000007,0,0
 2021-03-12,Camden,E09000007,9,0
@@ -12243,6 +12265,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-02-08,Causeway Coast and Glens,N09000004,0,
 2020-02-07,Causeway Coast and Glens,N09000004,0,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Central Bedfordshire,E06000056,0,
 2021-03-14,Central Bedfordshire,E06000056,8,0
 2021-03-13,Central Bedfordshire,E06000056,12,0
 2021-03-12,Central Bedfordshire,E06000056,12,0
@@ -12997,6 +13020,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-02-28,Ceredigion,W06000008,0,
 2020-02-27,Ceredigion,W06000008,0,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Cheshire East,E06000049,0,
 2021-03-14,Cheshire East,E06000049,5,0
 2021-03-13,Cheshire East,E06000049,12,0
 2021-03-12,Cheshire East,E06000049,33,0
@@ -13371,6 +13395,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-08,Cheshire East,E06000049,0,
 2020-03-07,Cheshire East,E06000049,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Cheshire West and Chester,E06000050,0,
 2021-03-14,Cheshire West and Chester,E06000050,6,0
 2021-03-13,Cheshire West and Chester,E06000050,25,0
 2021-03-12,Cheshire West and Chester,E06000050,26,0
@@ -14133,6 +14158,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-02-28,Conwy,W06000003,0,
 2020-02-27,Conwy,W06000003,0,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Cornwall and Isles of Scilly,E06000052,0,
 2021-03-14,Cornwall and Isles of Scilly,E06000052,5,0
 2021-03-13,Cornwall and Isles of Scilly,E06000052,11,0
 2021-03-12,Cornwall and Isles of Scilly,E06000052,15,0
@@ -14512,6 +14538,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-03,Cornwall and Isles of Scilly,E06000052,0,
 2020-03-02,Cornwall and Isles of Scilly,E06000052,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,County Durham,E06000047,0,
 2021-03-14,County Durham,E06000047,31,0
 2021-03-13,County Durham,E06000047,48,0
 2021-03-12,County Durham,E06000047,52,0
@@ -14884,6 +14911,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-10,County Durham,E06000047,0,
 2020-03-09,County Durham,E06000047,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Coventry,E08000026,0,
 2021-03-14,Coventry,E08000026,5,0
 2021-03-13,Coventry,E08000026,10,0
 2021-03-12,Coventry,E08000026,26,2
@@ -15260,6 +15288,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-06,Coventry,E08000026,1,
 2020-03-05,Coventry,E08000026,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Croydon,E09000008,0,
 2021-03-14,Croydon,E09000008,4,0
 2021-03-13,Croydon,E09000008,6,2
 2021-03-12,Croydon,E09000008,26,0
@@ -15634,6 +15663,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-08,Croydon,E09000008,0,
 2020-03-07,Croydon,E09000008,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Cumbria,E10000006,0,
 2021-03-14,Cumbria,E10000006,11,0
 2021-03-13,Cumbria,E10000006,12,0
 2021-03-12,Cumbria,E10000006,21,0
@@ -16012,6 +16042,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-04,Cumbria,E10000006,0,
 2020-03-03,Cumbria,E10000006,2,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Darlington,E06000005,0,
 2021-03-14,Darlington,E06000005,6,0
 2021-03-13,Darlington,E06000005,16,0
 2021-03-12,Darlington,E06000005,14,0
@@ -16770,6 +16801,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-02-28,Denbighshire,W06000004,0,
 2020-02-27,Denbighshire,W06000004,0,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Derby,E06000015,0,
 2021-03-14,Derby,E06000015,5,0
 2021-03-13,Derby,E06000015,15,0
 2021-03-12,Derby,E06000015,23,1
@@ -17145,6 +17177,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-07,Derby,E06000015,0,
 2020-03-06,Derby,E06000015,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Derbyshire,E10000007,0,
 2021-03-14,Derbyshire,E10000007,16,0
 2021-03-13,Derbyshire,E10000007,60,0
 2021-03-12,Derbyshire,E10000007,49,1
@@ -17917,6 +17950,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-02-24,Derry City and Strabane,N09000005,0,
 2020-02-23,Derry City and Strabane,N09000005,0,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Devon,E10000008,0,
 2021-03-14,Devon,E10000008,8,0
 2021-03-13,Devon,E10000008,11,2
 2021-03-12,Devon,E10000008,26,1
@@ -18297,6 +18331,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-02,Devon,E10000008,3,
 2020-03-01,Devon,E10000008,2,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Doncaster,E08000017,0,
 2021-03-14,Doncaster,E08000017,11,0
 2021-03-13,Doncaster,E08000017,30,0
 2021-03-12,Doncaster,E08000017,57,0
@@ -18668,6 +18703,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-11,Doncaster,E08000017,0,
 2020-03-10,Doncaster,E08000017,2,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Dorset,E06000059,0,
 2021-03-14,Dorset,E06000059,8,0
 2021-03-13,Dorset,E06000059,7,0
 2021-03-12,Dorset,E06000059,10,1
@@ -19039,6 +19075,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-11,Dorset,E06000059,1,
 2020-03-10,Dorset,E06000059,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Dudley,E08000027,0,
 2021-03-14,Dudley,E08000027,18,0
 2021-03-13,Dudley,E08000027,14,0
 2021-03-12,Dudley,E08000027,20,1
@@ -19413,6 +19450,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-08,Dudley,E08000027,0,
 2020-03-07,Dudley,E08000027,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Ealing,E09000009,0,
 2021-03-14,Ealing,E09000009,7,0
 2021-03-13,Ealing,E09000009,20,0
 2021-03-12,Ealing,E09000009,26,0
@@ -19798,6 +19836,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-02-26,Ealing,E09000009,0,
 2020-02-25,Ealing,E09000009,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,East Riding of Yorkshire,E06000011,0,
 2021-03-14,East Riding of Yorkshire,E06000011,15,0
 2021-03-13,East Riding of Yorkshire,E06000011,30,0
 2021-03-12,East Riding of Yorkshire,E06000011,32,0
@@ -20169,6 +20208,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-11,East Riding of Yorkshire,E06000011,2,
 2020-03-10,East Riding of Yorkshire,E06000011,2,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,East Sussex,E10000011,0,
 2021-03-14,East Sussex,E10000011,8,0
 2021-03-13,East Sussex,E10000011,3,0
 2021-03-12,East Sussex,E10000011,13,1
@@ -20539,6 +20579,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-12,East Sussex,E10000011,2,
 2020-03-11,East Sussex,E10000011,4,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Enfield,E09000010,0,
 2021-03-14,Enfield,E09000010,4,0
 2021-03-13,Enfield,E09000010,6,0
 2021-03-12,Enfield,E09000010,17,0
@@ -20914,6 +20955,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-07,Enfield,E09000010,0,
 2020-03-06,Enfield,E09000010,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Essex,E10000012,0,
 2021-03-14,Essex,E10000012,30,1
 2021-03-13,Essex,E10000012,36,3
 2021-03-12,Essex,E10000012,61,1
@@ -22086,6 +22128,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-02-28,Flintshire,W06000005,0,
 2020-02-27,Flintshire,W06000005,0,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Gateshead,E08000037,0,
 2021-03-14,Gateshead,E08000037,3,0
 2021-03-13,Gateshead,E08000037,6,0
 2021-03-12,Gateshead,E08000037,17,0
@@ -22455,6 +22498,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-13,Gateshead,E08000037,0,
 2020-03-12,Gateshead,E08000037,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Gloucestershire,E10000013,0,
 2021-03-14,Gloucestershire,E10000013,5,0
 2021-03-13,Gloucestershire,E10000013,13,0
 2021-03-12,Gloucestershire,E10000013,28,0
@@ -22839,6 +22883,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-02-27,Gloucestershire,E10000013,1,
 2020-02-26,Gloucestershire,E10000013,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Greenwich,E09000011,0,
 2021-03-14,Greenwich,E09000011,2,0
 2021-03-13,Greenwich,E09000011,9,0
 2021-03-12,Greenwich,E09000011,18,1
@@ -23596,6 +23641,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-02-28,Gwynedd,W06000002,0,
 2020-02-27,Gwynedd,W06000002,0,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Hackney and City of London,E09000012,0,
 2021-03-14,Hackney and City of London,E09000012,2,0
 2021-03-13,Hackney and City of London,E09000012,8,0
 2021-03-12,Hackney and City of London,E09000012,7,0
@@ -23969,6 +24015,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-09,Hackney and City of London,E09000012,1,
 2020-03-08,Hackney and City of London,E09000012,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Halton,E06000006,0,
 2021-03-14,Halton,E06000006,7,0
 2021-03-13,Halton,E06000006,13,0
 2021-03-12,Halton,E06000006,11,0
@@ -24338,6 +24385,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-13,Halton,E06000006,1,
 2020-03-12,Halton,E06000006,2,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Hammersmith and Fulham,E09000013,0,
 2021-03-14,Hammersmith and Fulham,E09000013,1,0
 2021-03-13,Hammersmith and Fulham,E09000013,4,0
 2021-03-12,Hammersmith and Fulham,E09000013,10,0
@@ -24715,6 +24763,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-05,Hammersmith and Fulham,E09000013,0,
 2020-03-04,Hammersmith and Fulham,E09000013,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Hampshire,E10000014,0,
 2021-03-14,Hampshire,E10000014,34,0
 2021-03-13,Hampshire,E10000014,39,0
 2021-03-12,Hampshire,E10000014,78,2
@@ -25098,6 +25147,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-02-28,Hampshire,E10000014,0,
 2020-02-27,Hampshire,E10000014,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Haringey,E09000014,0,
 2021-03-14,Haringey,E09000014,4,0
 2021-03-13,Haringey,E09000014,8,0
 2021-03-12,Haringey,E09000014,16,0
@@ -25471,6 +25521,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-09,Haringey,E09000014,2,
 2020-03-08,Haringey,E09000014,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Harrow,E09000015,0,
 2021-03-14,Harrow,E09000015,4,0
 2021-03-13,Harrow,E09000015,15,0
 2021-03-12,Harrow,E09000015,19,0
@@ -25849,6 +25900,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-04,Harrow,E09000015,0,
 2020-03-03,Harrow,E09000015,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Hartlepool,E06000001,0,
 2021-03-14,Hartlepool,E06000001,4,0
 2021-03-13,Hartlepool,E06000001,8,0
 2021-03-12,Hartlepool,E06000001,19,0
@@ -26214,6 +26266,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-17,Hartlepool,E06000001,0,
 2020-03-16,Hartlepool,E06000001,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Havering,E09000016,0,
 2021-03-14,Havering,E09000016,9,0
 2021-03-13,Havering,E09000016,11,0
 2021-03-12,Havering,E09000016,9,0
@@ -26589,6 +26642,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-07,Havering,E09000016,0,
 2020-03-06,Havering,E09000016,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,"Herefordshire, County of",E06000019,0,
 2021-03-14,"Herefordshire, County of",E06000019,4,0
 2021-03-13,"Herefordshire, County of",E06000019,3,0
 2021-03-12,"Herefordshire, County of",E06000019,10,0
@@ -26964,6 +27018,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-07,"Herefordshire, County of",E06000019,0,
 2020-03-06,"Herefordshire, County of",E06000019,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Hertfordshire,E10000015,0,
 2021-03-14,Hertfordshire,E10000015,28,0
 2021-03-13,Hertfordshire,E10000015,42,0
 2021-03-12,Hertfordshire,E10000015,50,0
@@ -27348,6 +27403,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-02-27,Hertfordshire,E10000015,1,
 2020-02-26,Hertfordshire,E10000015,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Hillingdon,E09000017,0,
 2021-03-14,Hillingdon,E09000017,12,0
 2021-03-13,Hillingdon,E09000017,23,0
 2021-03-12,Hillingdon,E09000017,34,0
@@ -27727,6 +27783,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-03,Hillingdon,E09000017,0,
 2020-03-02,Hillingdon,E09000017,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Hounslow,E09000018,0,
 2021-03-14,Hounslow,E09000018,14,0
 2021-03-13,Hounslow,E09000018,14,0
 2021-03-12,Hounslow,E09000018,29,0
@@ -28492,6 +28549,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-02-28,Isle of Anglesey,W06000001,0,
 2020-02-27,Isle of Anglesey,W06000001,0,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Isle of Wight,E06000046,0,
 2021-03-14,Isle of Wight,E06000046,1,0
 2021-03-13,Isle of Wight,E06000046,2,1
 2021-03-12,Isle of Wight,E06000046,7,0
@@ -28869,6 +28927,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-05,Isle of Wight,E06000046,0,
 2020-03-04,Isle of Wight,E06000046,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Islington,E09000019,0,
 2021-03-14,Islington,E09000019,3,0
 2021-03-13,Islington,E09000019,12,0
 2021-03-12,Islington,E09000019,8,0
@@ -29242,6 +29301,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-09,Islington,E09000019,0,
 2020-03-08,Islington,E09000019,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Kensington and Chelsea,E09000020,0,
 2021-03-14,Kensington and Chelsea,E09000020,1,0
 2021-03-13,Kensington and Chelsea,E09000020,1,0
 2021-03-12,Kensington and Chelsea,E09000020,6,0
@@ -29625,6 +29685,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-02-28,Kensington and Chelsea,E09000020,1,
 2020-02-27,Kensington and Chelsea,E09000020,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Kent,E10000016,0,
 2021-03-14,Kent,E10000016,36,0
 2021-03-13,Kent,E10000016,39,0
 2021-03-12,Kent,E10000016,58,0
@@ -30007,6 +30068,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-02-29,Kent,E10000016,0,
 2020-02-28,Kent,E10000016,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,"Kingston upon Hull, City of",E06000010,0,
 2021-03-14,"Kingston upon Hull, City of",E06000010,11,0
 2021-03-13,"Kingston upon Hull, City of",E06000010,39,0
 2021-03-12,"Kingston upon Hull, City of",E06000010,68,0
@@ -30387,6 +30449,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-02,"Kingston upon Hull, City of",E06000010,0,
 2020-03-01,"Kingston upon Hull, City of",E06000010,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Kingston upon Thames,E09000021,0,
 2021-03-14,Kingston upon Thames,E09000021,7,0
 2021-03-13,Kingston upon Thames,E09000021,5,0
 2021-03-12,Kingston upon Thames,E09000021,8,0
@@ -30768,6 +30831,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-01,Kingston upon Thames,E09000021,0,
 2020-02-29,Kingston upon Thames,E09000021,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Kirklees,E08000034,0,
 2021-03-14,Kirklees,E08000034,29,0
 2021-03-13,Kirklees,E08000034,42,1
 2021-03-12,Kirklees,E08000034,49,1
@@ -31140,6 +31204,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-10,Kirklees,E08000034,1,
 2020-03-09,Kirklees,E08000034,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Knowsley,E08000011,0,
 2021-03-14,Knowsley,E08000011,4,0
 2021-03-13,Knowsley,E08000011,7,0
 2021-03-12,Knowsley,E08000011,12,0
@@ -31509,6 +31574,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-13,Knowsley,E08000011,0,
 2020-03-12,Knowsley,E08000011,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Lambeth,E09000022,0,
 2021-03-14,Lambeth,E09000022,3,0
 2021-03-13,Lambeth,E09000022,7,0
 2021-03-12,Lambeth,E09000022,9,0
@@ -31895,6 +31961,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-02-25,Lambeth,E09000022,0,
 2020-02-24,Lambeth,E09000022,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Lancashire,E10000017,0,
 2021-03-14,Lancashire,E10000017,29,0
 2021-03-13,Lancashire,E10000017,89,0
 2021-03-12,Lancashire,E10000017,116,1
@@ -32275,6 +32342,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-02,Lancashire,E10000017,0,
 2020-03-01,Lancashire,E10000017,2,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Leeds,E08000035,0,
 2021-03-14,Leeds,E08000035,15,0
 2021-03-13,Leeds,E08000035,81,0
 2021-03-12,Leeds,E08000035,120,0
@@ -32657,6 +32725,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-02-29,Leeds,E08000035,0,
 2020-02-28,Leeds,E08000035,2,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Leicester,E06000016,0,
 2021-03-14,Leicester,E06000016,14,0
 2021-03-13,Leicester,E06000016,35,0
 2021-03-12,Leicester,E06000016,49,0
@@ -33027,6 +33096,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-12,Leicester,E06000016,1,
 2020-03-11,Leicester,E06000016,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Leicestershire,E10000018,0,
 2021-03-14,Leicestershire,E10000018,17,0
 2021-03-13,Leicestershire,E10000018,58,1
 2021-03-12,Leicestershire,E10000018,79,0
@@ -33407,6 +33477,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-02,Leicestershire,E10000018,0,
 2020-03-01,Leicestershire,E10000018,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Lewisham,E09000023,0,
 2021-03-14,Lewisham,E09000023,0,0
 2021-03-13,Lewisham,E09000023,5,0
 2021-03-12,Lewisham,E09000023,12,0
@@ -33806,6 +33877,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-02-12,Lewisham,E09000023,0,
 2020-02-11,Lewisham,E09000023,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Lincolnshire,E10000019,0,
 2021-03-14,Lincolnshire,E10000019,18,0
 2021-03-13,Lincolnshire,E10000019,46,4
 2021-03-12,Lincolnshire,E10000019,92,2
@@ -34587,6 +34659,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-02-08,Lisburn and Castlereagh,N09000007,0,
 2020-02-07,Lisburn and Castlereagh,N09000007,0,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Liverpool,E08000012,0,
 2021-03-14,Liverpool,E08000012,10,1
 2021-03-13,Liverpool,E08000012,27,0
 2021-03-12,Liverpool,E08000012,48,0
@@ -34966,6 +35039,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-03,Liverpool,E08000012,2,
 2020-03-02,Liverpool,E08000012,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Luton,E06000032,0,
 2021-03-14,Luton,E06000032,14,0
 2021-03-13,Luton,E06000032,24,0
 2021-03-12,Luton,E06000032,62,0
@@ -35343,6 +35417,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-05,Luton,E06000032,0,
 2020-03-04,Luton,E06000032,2,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Manchester,E08000003,0,
 2021-03-14,Manchester,E08000003,7,1
 2021-03-13,Manchester,E08000003,44,0
 2021-03-12,Manchester,E08000003,69,0
@@ -35721,6 +35796,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-04,Manchester,E08000003,1,
 2020-03-03,Manchester,E08000003,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Medway,E06000035,0,
 2021-03-14,Medway,E06000035,5,0
 2021-03-13,Medway,E06000035,7,1
 2021-03-12,Medway,E06000035,15,0
@@ -36481,6 +36557,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-02-28,Merthyr Tydfil,W06000024,0,
 2020-02-27,Merthyr Tydfil,W06000024,0,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Merton,E09000024,0,
 2021-03-14,Merton,E09000024,4,0
 2021-03-13,Merton,E09000024,11,1
 2021-03-12,Merton,E09000024,13,0
@@ -37660,6 +37737,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-02-19,Mid Ulster,N09000009,0,
 2020-02-18,Mid Ulster,N09000009,0,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Middlesbrough,E06000002,0,
 2021-03-14,Middlesbrough,E06000002,10,0
 2021-03-13,Middlesbrough,E06000002,15,0
 2021-03-12,Middlesbrough,E06000002,24,0
@@ -38027,6 +38105,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-15,Middlesbrough,E06000002,0,
 2020-03-14,Middlesbrough,E06000002,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Milton Keynes,E06000042,0,
 2021-03-14,Milton Keynes,E06000042,9,0
 2021-03-13,Milton Keynes,E06000042,15,0
 2021-03-12,Milton Keynes,E06000042,18,0
@@ -39171,6 +39250,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-02-28,Neath Port Talbot,W06000012,0,
 2020-02-27,Neath Port Talbot,W06000012,0,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Newcastle upon Tyne,E08000021,0,
 2021-03-14,Newcastle upon Tyne,E08000021,11,0
 2021-03-13,Newcastle upon Tyne,E08000021,29,0
 2021-03-12,Newcastle upon Tyne,E08000021,30,1
@@ -39550,6 +39630,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-03,Newcastle upon Tyne,E08000021,0,
 2020-03-02,Newcastle upon Tyne,E08000021,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Newham,E09000025,0,
 2021-03-14,Newham,E09000025,8,0
 2021-03-13,Newham,E09000025,12,0
 2021-03-12,Newham,E09000025,20,0
@@ -40689,6 +40770,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-02-27,"Newry, Mourne and Down",N09000010,0,
 2020-02-26,"Newry, Mourne and Down",N09000010,0,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Norfolk,E10000020,0,
 2021-03-14,Norfolk,E10000020,14,0
 2021-03-13,Norfolk,E10000020,28,0
 2021-03-12,Norfolk,E10000020,51,0
@@ -41060,6 +41142,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-11,Norfolk,E10000020,1,
 2020-03-10,Norfolk,E10000020,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,North East Lincolnshire,E06000012,0,
 2021-03-14,North East Lincolnshire,E06000012,5,1
 2021-03-13,North East Lincolnshire,E06000012,14,0
 2021-03-12,North East Lincolnshire,E06000012,35,0
@@ -41423,6 +41506,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-19,North East Lincolnshire,E06000012,0,
 2020-03-18,North East Lincolnshire,E06000012,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,North Lincolnshire,E06000013,0,
 2021-03-14,North Lincolnshire,E06000013,21,0
 2021-03-13,North Lincolnshire,E06000013,31,0
 2021-03-12,North Lincolnshire,E06000013,28,0
@@ -41798,6 +41882,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-07,North Lincolnshire,E06000013,0,
 2020-03-06,North Lincolnshire,E06000013,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,North Somerset,E06000024,0,
 2021-03-14,North Somerset,E06000024,6,0
 2021-03-13,North Somerset,E06000024,2,0
 2021-03-12,North Somerset,E06000024,18,0
@@ -42170,6 +42255,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-10,North Somerset,E06000024,0,
 2020-03-09,North Somerset,E06000024,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,North Tyneside,E08000022,0,
 2021-03-14,North Tyneside,E08000022,7,0
 2021-03-13,North Tyneside,E08000022,18,0
 2021-03-12,North Tyneside,E08000022,22,1
@@ -42546,6 +42632,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-06,North Tyneside,E08000022,0,
 2020-03-05,North Tyneside,E08000022,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,North Yorkshire,E10000023,0,
 2021-03-14,North Yorkshire,E10000023,11,0
 2021-03-13,North Yorkshire,E10000023,28,0
 2021-03-12,North Yorkshire,E10000023,37,1
@@ -42924,6 +43011,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-04,North Yorkshire,E10000023,0,
 2020-03-03,North Yorkshire,E10000023,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Northamptonshire,E10000021,0,
 2021-03-14,Northamptonshire,E10000021,46,0
 2021-03-13,Northamptonshire,E10000021,45,1
 2021-03-12,Northamptonshire,E10000021,87,2
@@ -43305,6 +43393,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-01,Northamptonshire,E10000021,0,
 2020-02-29,Northamptonshire,E10000021,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Northumberland,E06000057,0,
 2021-03-14,Northumberland,E06000057,13,0
 2021-03-13,Northumberland,E06000057,17,0
 2021-03-12,Northumberland,E06000057,16,0
@@ -43673,6 +43762,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-14,Northumberland,E06000057,0,
 2020-03-13,Northumberland,E06000057,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Nottingham,E06000018,0,
 2021-03-14,Nottingham,E06000018,9,2
 2021-03-13,Nottingham,E06000018,21,1
 2021-03-12,Nottingham,E06000018,21,1
@@ -44055,6 +44145,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-02-29,Nottingham,E06000018,0,
 2020-02-28,Nottingham,E06000018,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Nottinghamshire,E10000024,0,
 2021-03-14,Nottinghamshire,E10000024,31,1
 2021-03-13,Nottinghamshire,E10000024,68,3
 2021-03-12,Nottinghamshire,E10000024,92,3
@@ -44444,6 +44535,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-02-22,Nottinghamshire,E10000024,0,
 2020-02-21,Nottinghamshire,E10000024,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Oldham,E08000004,0,
 2021-03-14,Oldham,E08000004,1,0
 2021-03-13,Oldham,E08000004,18,0
 2021-03-12,Oldham,E08000004,35,0
@@ -44823,6 +44915,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-03,Oldham,E08000004,0,
 2020-03-02,Oldham,E08000004,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Oxfordshire,E10000025,0,
 2021-03-14,Oxfordshire,E10000025,17,0
 2021-03-13,Oxfordshire,E10000025,18,0
 2021-03-12,Oxfordshire,E10000025,27,0
@@ -45608,6 +45701,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-02-28,Pembrokeshire,W06000009,0,
 2020-02-27,Pembrokeshire,W06000009,0,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Peterborough,E06000031,0,
 2021-03-14,Peterborough,E06000031,17,0
 2021-03-13,Peterborough,E06000031,29,1
 2021-03-12,Peterborough,E06000031,33,0
@@ -45975,6 +46069,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-15,Peterborough,E06000031,0,
 2020-03-14,Peterborough,E06000031,2,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Plymouth,E06000026,0,
 2021-03-14,Plymouth,E06000026,4,0
 2021-03-13,Plymouth,E06000026,5,0
 2021-03-12,Plymouth,E06000026,17,0
@@ -46346,6 +46441,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-11,Plymouth,E06000026,0,
 2020-03-10,Plymouth,E06000026,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Portsmouth,E06000044,0,
 2021-03-14,Portsmouth,E06000044,8,0
 2021-03-13,Portsmouth,E06000044,6,0
 2021-03-12,Portsmouth,E06000044,7,0
@@ -47101,6 +47197,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-02-28,Powys,W06000023,0,
 2020-02-27,Powys,W06000023,0,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Reading,E06000038,0,
 2021-03-14,Reading,E06000038,8,0
 2021-03-13,Reading,E06000038,8,0
 2021-03-12,Reading,E06000038,7,0
@@ -47474,6 +47571,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-09,Reading,E06000038,0,
 2020-03-08,Reading,E06000038,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Redbridge,E09000026,0,
 2021-03-14,Redbridge,E09000026,2,0
 2021-03-13,Redbridge,E09000026,5,0
 2021-03-12,Redbridge,E09000026,13,0
@@ -47853,6 +47951,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-03,Redbridge,E09000026,0,
 2020-03-02,Redbridge,E09000026,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Redcar and Cleveland,E06000003,0,
 2021-03-14,Redcar and Cleveland,E06000003,4,0
 2021-03-13,Redcar and Cleveland,E06000003,6,0
 2021-03-12,Redcar and Cleveland,E06000003,4,0
@@ -48607,6 +48706,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-02-28,Rhondda Cynon Taf,W06000016,0,
 2020-02-27,Rhondda Cynon Taf,W06000016,0,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Richmond upon Thames,E09000027,0,
 2021-03-14,Richmond upon Thames,E09000027,1,0
 2021-03-13,Richmond upon Thames,E09000027,4,1
 2021-03-12,Richmond upon Thames,E09000027,12,0
@@ -48982,6 +49082,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-07,Richmond upon Thames,E09000027,0,
 2020-03-06,Richmond upon Thames,E09000027,2,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Rochdale,E08000005,0,
 2021-03-14,Rochdale,E08000005,5,0
 2021-03-13,Rochdale,E08000005,26,0
 2021-03-12,Rochdale,E08000005,28,0
@@ -49354,6 +49455,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-10,Rochdale,E08000005,1,
 2020-03-09,Rochdale,E08000005,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Rotherham,E08000018,0,
 2021-03-14,Rotherham,E08000018,13,0
 2021-03-13,Rotherham,E08000018,46,2
 2021-03-12,Rotherham,E08000018,59,1
@@ -49733,6 +49835,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-03,Rotherham,E08000018,0,
 2020-03-02,Rotherham,E08000018,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Rutland,E06000017,0,
 2021-03-14,Rutland,E06000017,0,0
 2021-03-13,Rutland,E06000017,1,0
 2021-03-12,Rutland,E06000017,3,0
@@ -50091,6 +50194,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-24,Rutland,E06000017,1,
 2020-03-23,Rutland,E06000017,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Salford,E08000006,0,
 2021-03-14,Salford,E08000006,7,0
 2021-03-13,Salford,E08000006,25,0
 2021-03-12,Salford,E08000006,45,1
@@ -50462,6 +50566,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-11,Salford,E08000006,0,
 2020-03-10,Salford,E08000006,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Sandwell,E08000028,0,
 2021-03-14,Sandwell,E08000028,13,1
 2021-03-13,Sandwell,E08000028,20,1
 2021-03-12,Sandwell,E08000028,40,0
@@ -50832,6 +50937,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-12,Sandwell,E08000028,4,
 2020-03-11,Sandwell,E08000028,2,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Sefton,E08000014,0,
 2021-03-14,Sefton,E08000014,6,0
 2021-03-13,Sefton,E08000014,14,0
 2021-03-12,Sefton,E08000014,22,2
@@ -51204,6 +51310,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-10,Sefton,E08000014,0,
 2020-03-09,Sefton,E08000014,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Sheffield,E08000019,0,
 2021-03-14,Sheffield,E08000019,22,2
 2021-03-13,Sheffield,E08000019,51,1
 2021-03-12,Sheffield,E08000019,103,0
@@ -51584,6 +51691,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-02,Sheffield,E08000019,0,
 2020-03-01,Sheffield,E08000019,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Shropshire,E06000051,0,
 2021-03-14,Shropshire,E06000051,8,0
 2021-03-13,Shropshire,E06000051,14,0
 2021-03-12,Shropshire,E06000051,16,1
@@ -51958,6 +52066,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-08,Shropshire,E06000051,1,
 2020-03-07,Shropshire,E06000051,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Slough,E06000039,0,
 2021-03-14,Slough,E06000039,4,0
 2021-03-13,Slough,E06000039,6,0
 2021-03-12,Slough,E06000039,19,0
@@ -52333,6 +52442,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-07,Slough,E06000039,0,
 2020-03-06,Slough,E06000039,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Solihull,E08000029,0,
 2021-03-14,Solihull,E08000029,13,0
 2021-03-13,Solihull,E08000029,18,0
 2021-03-12,Solihull,E08000029,28,1
@@ -52703,6 +52813,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-12,Solihull,E08000029,0,
 2020-03-11,Solihull,E08000029,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Somerset,E10000027,0,
 2021-03-14,Somerset,E10000027,11,0
 2021-03-13,Somerset,E10000027,10,0
 2021-03-12,Somerset,E10000027,27,0
@@ -53078,6 +53189,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-07,Somerset,E10000027,0,
 2020-03-06,Somerset,E10000027,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,South Gloucestershire,E06000025,0,
 2021-03-14,South Gloucestershire,E06000025,8,0
 2021-03-13,South Gloucestershire,E06000025,7,0
 2021-03-12,South Gloucestershire,E06000025,15,0
@@ -53451,6 +53563,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-09,South Gloucestershire,E06000025,2,
 2020-03-08,South Gloucestershire,E06000025,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,South Tyneside,E08000023,0,
 2021-03-14,South Tyneside,E08000023,5,0
 2021-03-13,South Tyneside,E08000023,11,0
 2021-03-12,South Tyneside,E08000023,18,0
@@ -53817,6 +53930,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-16,South Tyneside,E08000023,1,
 2020-03-15,South Tyneside,E08000023,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Southampton,E06000045,0,
 2021-03-14,Southampton,E06000045,23,0
 2021-03-13,Southampton,E06000045,28,0
 2021-03-12,Southampton,E06000045,29,1
@@ -54194,6 +54308,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-05,Southampton,E06000045,0,
 2020-03-04,Southampton,E06000045,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Southend-on-Sea,E06000033,0,
 2021-03-14,Southend-on-Sea,E06000033,3,0
 2021-03-13,Southend-on-Sea,E06000033,8,0
 2021-03-12,Southend-on-Sea,E06000033,6,0
@@ -54571,6 +54686,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-05,Southend-on-Sea,E06000033,0,
 2020-03-04,Southend-on-Sea,E06000033,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Southwark,E09000028,0,
 2021-03-14,Southwark,E09000028,1,0
 2021-03-13,Southwark,E09000028,4,0
 2021-03-12,Southwark,E09000028,12,0
@@ -54956,6 +55072,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-02-26,Southwark,E09000028,0,
 2020-02-25,Southwark,E09000028,2,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,St. Helens,E08000013,0,
 2021-03-14,St. Helens,E08000013,9,0
 2021-03-13,St. Helens,E08000013,7,0
 2021-03-12,St. Helens,E08000013,16,0
@@ -55326,6 +55443,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-12,St. Helens,E08000013,0,
 2020-03-11,St. Helens,E08000013,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Staffordshire,E10000028,0,
 2021-03-14,Staffordshire,E10000028,41,0
 2021-03-13,Staffordshire,E10000028,68,1
 2021-03-12,Staffordshire,E10000028,93,2
@@ -55705,6 +55823,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-03,Staffordshire,E10000028,1,
 2020-03-02,Staffordshire,E10000028,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Stockport,E08000007,0,
 2021-03-14,Stockport,E08000007,8,0
 2021-03-13,Stockport,E08000007,23,0
 2021-03-12,Stockport,E08000007,39,0
@@ -56085,6 +56204,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-02,Stockport,E08000007,0,
 2020-03-01,Stockport,E08000007,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Stockton-on-Tees,E06000004,0,
 2021-03-14,Stockton-on-Tees,E06000004,9,0
 2021-03-13,Stockton-on-Tees,E06000004,25,0
 2021-03-12,Stockton-on-Tees,E06000004,23,0
@@ -56457,6 +56577,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-10,Stockton-on-Tees,E06000004,2,
 2020-03-09,Stockton-on-Tees,E06000004,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Stoke-on-Trent,E06000021,0,
 2021-03-14,Stoke-on-Trent,E06000021,11,0
 2021-03-13,Stoke-on-Trent,E06000021,22,0
 2021-03-12,Stoke-on-Trent,E06000021,36,1
@@ -56826,6 +56947,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-13,Stoke-on-Trent,E06000021,0,
 2020-03-12,Stoke-on-Trent,E06000021,2,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Suffolk,E10000029,0,
 2021-03-14,Suffolk,E10000029,14,0
 2021-03-13,Suffolk,E10000029,25,1
 2021-03-12,Suffolk,E10000029,39,0
@@ -57200,6 +57322,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-08,Suffolk,E10000029,0,
 2020-03-07,Suffolk,E10000029,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Sunderland,E08000024,0,
 2021-03-14,Sunderland,E08000024,15,0
 2021-03-13,Sunderland,E08000024,28,0
 2021-03-12,Sunderland,E08000024,45,1
@@ -57574,6 +57697,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-08,Sunderland,E08000024,0,
 2020-03-07,Sunderland,E08000024,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Surrey,E10000030,0,
 2021-03-14,Surrey,E10000030,23,0
 2021-03-13,Surrey,E10000030,31,0
 2021-03-12,Surrey,E10000030,58,1
@@ -57959,6 +58083,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-02-26,Surrey,E10000030,0,
 2020-02-25,Surrey,E10000030,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Sutton,E09000029,0,
 2021-03-14,Sutton,E09000029,3,0
 2021-03-13,Sutton,E09000029,5,0
 2021-03-12,Sutton,E09000029,15,0
@@ -58719,6 +58844,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-02-28,Swansea,W06000011,0,
 2020-02-27,Swansea,W06000011,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Swindon,E06000030,0,
 2021-03-14,Swindon,E06000030,5,1
 2021-03-13,Swindon,E06000030,16,0
 2021-03-12,Swindon,E06000030,25,1
@@ -59097,6 +59223,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-04,Swindon,E06000030,0,
 2020-03-03,Swindon,E06000030,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Tameside,E08000008,0,
 2021-03-14,Tameside,E08000008,5,0
 2021-03-13,Tameside,E08000008,29,0
 2021-03-12,Tameside,E08000008,31,0
@@ -59472,6 +59599,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-07,Tameside,E08000008,0,
 2020-03-06,Tameside,E08000008,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Telford and Wrekin,E06000020,0,
 2021-03-14,Telford and Wrekin,E06000020,6,0
 2021-03-13,Telford and Wrekin,E06000020,4,0
 2021-03-12,Telford and Wrekin,E06000020,9,1
@@ -59846,6 +59974,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-08,Telford and Wrekin,E06000020,0,
 2020-03-07,Telford and Wrekin,E06000020,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Thurrock,E06000034,0,
 2021-03-14,Thurrock,E06000034,9,1
 2021-03-13,Thurrock,E06000034,6,0
 2021-03-12,Thurrock,E06000034,7,0
@@ -60217,6 +60346,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-11,Thurrock,E06000034,1,
 2020-03-10,Thurrock,E06000034,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Torbay,E06000027,0,
 2021-03-14,Torbay,E06000027,5,0
 2021-03-13,Torbay,E06000027,1,0
 2021-03-12,Torbay,E06000027,7,0
@@ -60979,6 +61109,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-02-28,Torfaen,W06000020,0,
 2020-02-27,Torfaen,W06000020,0,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Tower Hamlets,E09000030,0,
 2021-03-14,Tower Hamlets,E09000030,0,0
 2021-03-13,Tower Hamlets,E09000030,4,0
 2021-03-12,Tower Hamlets,E09000030,20,0
@@ -61356,6 +61487,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-05,Tower Hamlets,E09000030,1,
 2020-03-04,Tower Hamlets,E09000030,2,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Trafford,E08000009,0,
 2021-03-14,Trafford,E08000009,3,0
 2021-03-13,Trafford,E08000009,12,0
 2021-03-12,Trafford,E08000009,17,0
@@ -62118,6 +62250,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-02-28,Vale of Glamorgan,W06000014,0,
 2020-02-27,Vale of Glamorgan,W06000014,0,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Wakefield,E08000036,0,
 2021-03-14,Wakefield,E08000036,12,0
 2021-03-13,Wakefield,E08000036,50,1
 2021-03-12,Wakefield,E08000036,52,0
@@ -62488,6 +62621,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-12,Wakefield,E08000036,4,
 2020-03-11,Wakefield,E08000036,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Walsall,E08000030,0,
 2021-03-14,Walsall,E08000030,19,0
 2021-03-13,Walsall,E08000030,21,0
 2021-03-12,Walsall,E08000030,36,0
@@ -62868,6 +63002,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-02,Walsall,E08000030,0,
 2020-03-01,Walsall,E08000030,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Waltham Forest,E09000031,0,
 2021-03-14,Waltham Forest,E09000031,1,0
 2021-03-13,Waltham Forest,E09000031,7,0
 2021-03-12,Waltham Forest,E09000031,10,0
@@ -63244,6 +63379,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-06,Waltham Forest,E09000031,1,
 2020-03-05,Waltham Forest,E09000031,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Wandsworth,E09000032,0,
 2021-03-14,Wandsworth,E09000032,7,0
 2021-03-13,Wandsworth,E09000032,3,0
 2021-03-12,Wandsworth,E09000032,20,0
@@ -63624,6 +63760,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-02,Wandsworth,E09000032,1,
 2020-03-01,Wandsworth,E09000032,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Warrington,E06000007,0,
 2021-03-14,Warrington,E06000007,8,0
 2021-03-13,Warrington,E06000007,19,0
 2021-03-12,Warrington,E06000007,24,0
@@ -63996,6 +64133,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-10,Warrington,E06000007,0,
 2020-03-09,Warrington,E06000007,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Warwickshire,E10000031,0,
 2021-03-14,Warwickshire,E10000031,18,0
 2021-03-13,Warwickshire,E10000031,36,1
 2021-03-12,Warwickshire,E10000031,47,1
@@ -64375,6 +64513,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-03,Warwickshire,E10000031,0,
 2020-03-02,Warwickshire,E10000031,2,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,West Berkshire,E06000037,0,
 2021-03-14,West Berkshire,E06000037,1,0
 2021-03-13,West Berkshire,E06000037,3,0
 2021-03-12,West Berkshire,E06000037,6,0
@@ -64749,6 +64888,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-08,West Berkshire,E06000037,0,
 2020-03-07,West Berkshire,E06000037,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,West Sussex,E10000032,0,
 2021-03-14,West Sussex,E10000032,18,0
 2021-03-13,West Sussex,E10000032,25,2
 2021-03-12,West Sussex,E10000032,30,0
@@ -65135,6 +65275,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-02-25,West Sussex,E10000032,0,
 2020-02-24,West Sussex,E10000032,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Westminster,E09000033,0,
 2021-03-14,Westminster,E09000033,1,0
 2021-03-13,Westminster,E09000033,7,0
 2021-03-12,Westminster,E09000033,20,0
@@ -65519,6 +65660,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-02-27,Westminster,E09000033,0,
 2020-02-26,Westminster,E09000033,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Wigan,E08000010,0,
 2021-03-14,Wigan,E08000010,14,0
 2021-03-13,Wigan,E08000010,34,0
 2021-03-12,Wigan,E08000010,37,0
@@ -65897,6 +66039,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-04,Wigan,E08000010,0,
 2020-03-03,Wigan,E08000010,2,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Wiltshire,E06000054,0,
 2021-03-14,Wiltshire,E06000054,12,0
 2021-03-13,Wiltshire,E06000054,8,0
 2021-03-12,Wiltshire,E06000054,14,0
@@ -66277,6 +66420,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-02,Wiltshire,E06000054,0,
 2020-03-01,Wiltshire,E06000054,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Windsor and Maidenhead,E06000040,0,
 2021-03-14,Windsor and Maidenhead,E06000040,4,0
 2021-03-13,Windsor and Maidenhead,E06000040,2,1
 2021-03-12,Windsor and Maidenhead,E06000040,5,0
@@ -66652,6 +66796,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-07,Windsor and Maidenhead,E06000040,0,
 2020-03-06,Windsor and Maidenhead,E06000040,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Wirral,E08000015,0,
 2021-03-14,Wirral,E08000015,3,0
 2021-03-13,Wirral,E08000015,8,0
 2021-03-12,Wirral,E08000015,13,0
@@ -67032,6 +67177,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-02,Wirral,E08000015,0,
 2020-03-01,Wirral,E08000015,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Wokingham,E06000041,0,
 2021-03-14,Wokingham,E06000041,3,0
 2021-03-13,Wokingham,E06000041,6,0
 2021-03-12,Wokingham,E06000041,6,0
@@ -67415,6 +67561,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-02-28,Wokingham,E06000041,0,
 2020-02-27,Wokingham,E06000041,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Wolverhampton,E08000031,0,
 2021-03-14,Wolverhampton,E08000031,13,0
 2021-03-13,Wolverhampton,E08000031,18,0
 2021-03-12,Wolverhampton,E08000031,33,0
@@ -67791,6 +67938,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-06,Wolverhampton,E08000031,0,
 2020-03-05,Wolverhampton,E08000031,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,Worcestershire,E10000034,0,
 2021-03-14,Worcestershire,E10000034,22,0
 2021-03-13,Worcestershire,E10000034,38,0
 2021-03-12,Worcestershire,E10000034,54,0
@@ -68546,6 +68694,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-02-28,Wrexham,W06000006,0,
 2020-02-27,Wrexham,W06000006,0,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
+2021-03-15,York,E06000014,0,
 2021-03-14,York,E06000014,6,0
 2021-03-13,York,E06000014,7,0
 2021-03-12,York,E06000014,9,0
