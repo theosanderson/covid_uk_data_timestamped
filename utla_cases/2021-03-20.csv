@@ -61396,7 +61396,9 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-03,Torbay,E06000027,0,
 2020-03-02,Torbay,E06000027,4,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
-2021-03-17,Torfaen,W06000020,1,
+2021-03-19,Torfaen,W06000020,0,
+2021-03-18,Torfaen,W06000020,0,
+2021-03-17,Torfaen,W06000020,3,
 2021-03-16,Torfaen,W06000020,1,
 2021-03-15,Torfaen,W06000020,1,
 2021-03-14,Torfaen,W06000020,1,
