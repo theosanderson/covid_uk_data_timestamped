@@ -58068,7 +58068,8 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-09,South Gloucestershire,E06000025,2,
 2020-03-08,South Gloucestershire,E06000025,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
-2021-04-15,South Tyneside,E08000023,3,0
+2021-04-16,South Tyneside,E08000023,2,0
+2021-04-15,South Tyneside,E08000023,5,0
 2021-04-14,South Tyneside,E08000023,6,1
 2021-04-13,South Tyneside,E08000023,3,0
 2021-04-12,South Tyneside,E08000023,4,0
@@ -58262,7 +58263,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-10-06,South Tyneside,E08000023,59,0
 2020-10-05,South Tyneside,E08000023,59,0
 2020-10-04,South Tyneside,E08000023,48,1
-2020-10-03,South Tyneside,E08000023,57,0
+2020-10-03,South Tyneside,E08000023,58,0
 2020-10-02,South Tyneside,E08000023,63,3
 2020-10-01,South Tyneside,E08000023,57,1
 2020-09-30,South Tyneside,E08000023,71,0
@@ -58277,7 +58278,7 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-09-21,South Tyneside,E08000023,41,4
 2020-09-20,South Tyneside,E08000023,61,2
 2020-09-19,South Tyneside,E08000023,49,0
-2020-09-18,South Tyneside,E08000023,45,1
+2020-09-18,South Tyneside,E08000023,44,1
 2020-09-17,South Tyneside,E08000023,42,2
 2020-09-16,South Tyneside,E08000023,29,1
 2020-09-15,South Tyneside,E08000023,55,0
