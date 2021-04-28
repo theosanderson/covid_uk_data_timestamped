@@ -21803,18 +21803,19 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-02-26,Ealing,E09000009,0,
 2020-02-25,Ealing,E09000009,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
-2021-04-26,East Riding of Yorkshire,E06000011,9,0
+2021-04-27,East Riding of Yorkshire,E06000011,11,0
+2021-04-26,East Riding of Yorkshire,E06000011,25,0
 2021-04-25,East Riding of Yorkshire,E06000011,11,0
 2021-04-24,East Riding of Yorkshire,E06000011,6,0
 2021-04-23,East Riding of Yorkshire,E06000011,7,0
 2021-04-22,East Riding of Yorkshire,E06000011,14,0
 2021-04-21,East Riding of Yorkshire,E06000011,23,0
 2021-04-20,East Riding of Yorkshire,E06000011,18,0
-2021-04-19,East Riding of Yorkshire,E06000011,27,2
+2021-04-19,East Riding of Yorkshire,E06000011,27,1
 2021-04-18,East Riding of Yorkshire,E06000011,11,1
-2021-04-17,East Riding of Yorkshire,E06000011,10,0
+2021-04-17,East Riding of Yorkshire,E06000011,10,1
 2021-04-16,East Riding of Yorkshire,E06000011,15,0
-2021-04-15,East Riding of Yorkshire,E06000011,26,0
+2021-04-15,East Riding of Yorkshire,E06000011,25,0
 2021-04-14,East Riding of Yorkshire,E06000011,16,0
 2021-04-13,East Riding of Yorkshire,E06000011,19,0
 2021-04-12,East Riding of Yorkshire,E06000011,21,0
@@ -21869,8 +21870,8 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2021-02-22,East Riding of Yorkshire,E06000011,38,1
 2021-02-21,East Riding of Yorkshire,E06000011,34,3
 2021-02-20,East Riding of Yorkshire,E06000011,25,1
-2021-02-19,East Riding of Yorkshire,E06000011,62,3
-2021-02-18,East Riding of Yorkshire,E06000011,38,2
+2021-02-19,East Riding of Yorkshire,E06000011,62,2
+2021-02-18,East Riding of Yorkshire,E06000011,38,3
 2021-02-17,East Riding of Yorkshire,E06000011,98,4
 2021-02-16,East Riding of Yorkshire,E06000011,78,4
 2021-02-15,East Riding of Yorkshire,E06000011,72,3
@@ -21972,8 +21973,8 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-11-11,East Riding of Yorkshire,E06000011,222,5
 2020-11-10,East Riding of Yorkshire,E06000011,260,4
 2020-11-09,East Riding of Yorkshire,E06000011,307,1
-2020-11-08,East Riding of Yorkshire,E06000011,192,3
-2020-11-07,East Riding of Yorkshire,E06000011,242,2
+2020-11-08,East Riding of Yorkshire,E06000011,192,2
+2020-11-07,East Riding of Yorkshire,E06000011,242,3
 2020-11-06,East Riding of Yorkshire,E06000011,239,3
 2020-11-05,East Riding of Yorkshire,E06000011,198,2
 2020-11-04,East Riding of Yorkshire,E06000011,227,2
