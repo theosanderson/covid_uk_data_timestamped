@@ -19226,10 +19226,9 @@ date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
 2020-03-22,Denbighshire,W06000004,1,
 2020-03-21,Denbighshire,W06000004,1,
 date,areaName,areaCode,newCasesBySpecimenDate,newDeaths28DaysByDeathDate
-2021-05-15,Derby,E06000015,1,0
-2021-05-14,Derby,E06000015,1,0
-2021-05-13,Derby,E06000015,3,0
-2021-05-12,Derby,E06000015,6,0
+2021-05-14,Derby,E06000015,0,0
+2021-05-13,Derby,E06000015,2,0
+2021-05-12,Derby,E06000015,5,0
 2021-05-11,Derby,E06000015,3,0
 2021-05-10,Derby,E06000015,6,0
 2021-05-09,Derby,E06000015,9,0
